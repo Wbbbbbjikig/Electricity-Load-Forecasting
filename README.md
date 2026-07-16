@@ -41,7 +41,6 @@
 
 ```bash
 pip install pandas numpy scikit-learn lightgbm matplotlib
-python3 generate_data.py   # 生成数据
 python3 forecast.py        # 训练 + 评估 + 出图
 ```
 
